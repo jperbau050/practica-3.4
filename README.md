@@ -2,8 +2,8 @@
 
 **Asignatura:** Despliegue de Aplicaciones Web  
 **Curso:** 2025/2026  
-**Alumno:** Juan Francisco Pérez Bau  
-**URL del Proyecto:** [https://github.com/jperbau050/practica-dockerhub](https://github.com/jperbau050/practica-dockerhub)
+**Alumno:** Juan Francisco Pérez Bautista  
+**URL del Proyecto:** [https://github.com/jperbau050/practica-3.4](https://github.com/jperbau050/practica-3.4)
 
 ---
 
@@ -17,7 +17,7 @@ docker build -t nginx-2048 .
 
 **Etiquetarla para tu perfil:**
 
-cambia tu-usuario por el tuyo real de docker hub y yo lo he llamado nginx-2048:latest tu puedes ponerle el nombre que quieras
+Cambia **tu-usuario** por el tuyo real de docker hub y yo lo he llamado **nginx-2048:latest** tu puedes ponerle el nombre que quieras
 
 docker tag nginx-2048 tu-usuario/nginx-2048:latest
 
