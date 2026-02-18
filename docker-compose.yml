@@ -1,6 +1,6 @@
 services:
   juego-2048:
-    image: juanfran06/practica-3_4:1.0  # Cambiado de latest a 1.0
+    image: juanfran06/practica-3_4:1.0  
     container_name: web-2048
     ports:
       - "80:80"
